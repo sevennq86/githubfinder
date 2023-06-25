@@ -1,4 +1,4 @@
-import UserResults from "../Users/UserResults"
+import UserResults from "../users/UserResults"
 
 function Home() {
   return (
